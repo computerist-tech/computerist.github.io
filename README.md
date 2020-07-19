@@ -1,2 +1,1 @@
-# computerist.github.io
-Website
+# Launching Soon Website
